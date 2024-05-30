@@ -160,27 +160,27 @@ export const projects: ProjectType[] = [
   {
     name: "College Official Website ",
     desc: "As Team Lead and Project Coordinator, I managed the SRKR College official website, facilitating seamless updates and content management across branches. My development of dynamic admin modules empowered branch administrators to modify content effortlessly, enhancing accessibility and functionality.",
-    github: "--",
+    github: "https://github.com/saisivamani/srkrec_old",
     link: "https://srkrec.edu.in/web_team.php",
   },
   {
     name: "Youth Cultural Association Platform",
     desc: "Developed a full-stack web app for a national youth cultural association with 1100+ members, showcasing events and updates, and enabling branch clubs to verify member status and grant access seamlessly.",
-    github: "--",
+    github: "https://github.com/saisivamani/youthclub",
     link: "https://ycabvrm.com/",
   },
   
   {
     name: "BO Lunch Box",
     desc: "Developed a software solution for BO Lunch Box that notifies parents about lunch pick-up, offers live location tracking, and confirms delivery at school, ensuring fresh and nutritious meals for students.",
-    github: "--",
+    github: "https://github.com/saisivamani/lunchbox",
     link: "http://saipraveen.free.nf/lunchbox/?i=1", 
   },
   {
     name: "Personal Portfolio",
     desc: "Developed a responsive portfolio using React.js and Next.js with Bootstrap. This project showcases my work, skills, and experience as a software developer, providing a professional and interactive way to connect with potential employers and collaborators.",
-    github: "https://github.com/1hanzla100/developer-portfolio",
-    link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    github: "https://github.com/saisivamani/personal-portfolio_",
+    link: "https://saisivamani-vanapalli.vercel.app/",
   },
   
 ];

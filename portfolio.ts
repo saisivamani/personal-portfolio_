@@ -137,7 +137,7 @@ export const experience: ExperienceType[] = [
     role: "Co-Founder",
     company: "SRKR Campus Online",
     companyLogo: "/img/icons/common/co_logo.png",
-    date: "Aug 2022 - Jun 2023",
+    date: "Aug 2022 - Mar 2024",
     desc: "As a Co-founder of SRKR CAMPUS ONLINE, I contributed my abilities and efforts to its establishment, fostering a platform that bridges the gap between industries and students. Our startup facilitates student engagement with potential employers, resource exchange, and community building. I spearheaded vision conceptualization, team assembly, and platform development, achieving significant traction within our campus ecosystem. Additionally, we pioneered affordable, homemade food delivery on campus, fostering convenience and community among students.",
   },
 

@@ -42,7 +42,7 @@ export const skillsSection: SkillsSectionType = {
       lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
         emoji("⚡ Building responsive Web applications using LAMP Stack"),
-        emoji("⚡ Building responsive static websites using Next.js & React.js"),
+        emoji("⚡ Maintaining The Web applications"),
         emoji("⚡ Building and Designing App protypes and User Interfaces"),
       ],
       softwareSkills: [
